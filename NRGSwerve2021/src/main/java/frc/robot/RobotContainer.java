@@ -30,7 +30,7 @@ public class RobotContainer {
 A: Ruthie Lartey
 B:
 C:
-D:
+D: Regina
 E:
 F: Masa
 G:
