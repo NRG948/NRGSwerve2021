@@ -29,8 +29,8 @@ public class RobotContainer {
 /* 
 A: Ruthie Lartey
 B:
-C:
-D:
+C: Flora
+D: Regina
 E:
 F: Masa
 G:
