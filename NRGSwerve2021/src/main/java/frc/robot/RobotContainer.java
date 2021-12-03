@@ -31,7 +31,7 @@ A: Ruthie Lartey
 B:
 C: Flora
 D: Regina
-E:work already
+E:work already minjay jo
 F: Masa
 G: Om
 H: Tony S
@@ -41,7 +41,7 @@ K:
 
 K: Vishwa
 */
-
+// yoyoyo my name is minjay test test one two three
 // NATE PROGRAMMING VP!!!!!!!
 // Taylor!!!!!!!!!!!!!!
 
