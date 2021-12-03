@@ -35,7 +35,7 @@ E:work already minjay jo
 F: Masa
 G:
 H: Tony S
-I:
+I: MInjay jo  i am comminting
 J:
 K:
 
